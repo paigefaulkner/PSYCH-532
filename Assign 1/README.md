@@ -1,4 +1,4 @@
-'''ruby 
+```ruby 
 #Question 1
 
 x1 <- c(3, -2, 4) 
